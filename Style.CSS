@@ -1,0 +1,53 @@
+body {
+    background-color: forestgreen;
+    text-align: center;
+}
+
+.Highlight {
+    text-align: left;
+    background-color: white;
+}
+
+.imageone {
+    width: 470px;
+    height: 240px;
+}
+
+.imagetwo {
+    width: 470px;
+    height: 240px;
+}
+
+.imagefour{
+       width: 470px;
+    height: 240px; 
+
+}
+
+.imagethree{
+       width: 470px;
+    height: 240px; 
+
+}
+p {
+    width: 470px;
+    margin-top: 0px;
+    height: 25px;
+}
+
+.Highlightone {
+    text-align: right;
+    text-align: top;
+    background-color: white;
+}
+
+.d1 {
+    display: block;
+    float: left;
+    width:auto;
+}
+.d2 {
+    display: block;
+    float: right;
+    width:auto;
+}
